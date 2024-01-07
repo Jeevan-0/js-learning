@@ -1,2 +1,2 @@
 # js-learning
-just foe my personal learnings 
+just for my personal learnings 
